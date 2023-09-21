@@ -1,0 +1,13 @@
+name: Quiz
+title: Quiz
+username: arjun10
+account: arjun10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9933744
+bundleId: 7708409
+url: https://arjun10.shinyapps.io/Quiz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: index.css|index.html|index.js|Tutorial 3 Measures of Central Tendency.pptx
